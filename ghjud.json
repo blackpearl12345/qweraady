@@ -599,8 +599,12 @@
     "isBannerAvailable": true,
     "banner": [
         {
-            "image": "https://static.vecteezy.com/system/resources/previews/002/144/780/non_2x/gaming-banner-for-games-with-glitch-effect-neon-light-on-text-illustration-design-free-vector.jpg",
-            "url": "https://www.google.com/"
+            "image": "https://blackpearl12345.github.io/qweraady/crowd.png",
+            "url": "https://play.famobi.com/crowd-run-3d"
+        },
+        {
+            "image": "https://blackpearl12345.github.io/qweraady/trafic.jpeg",
+            "url": "https://play.famobi.com/traffic-tom"
         }
     ],
     "isRecentlyAddedAvailable": true,
