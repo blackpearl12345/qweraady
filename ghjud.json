@@ -3,7 +3,7 @@
     "secondaryColorHex": "0xFFFEA203",
     "textColorHex": "0xFFE1DDE4",
     "splashBackgroundHex": "0x00000000",
-    "isOriginal": true,
+    "isOriginal": false,
     "appBarTitle": "All In One Game",
     "splashScreenLogo": "https://blackpearl12345.github.io/qweraady/logo.png",
     "isMoreGamesAndVideoAvailable": false,
